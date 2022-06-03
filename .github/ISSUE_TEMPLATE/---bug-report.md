@@ -9,9 +9,9 @@ assignees: ''
 
 #### Describe the bug
 
-**Node.js version:** <!-- Write your Node.js version (e.g. "node --version" output). -->
+**Node.js version:** <!-- Write your Node.js version. -->
 
-**OS version:** <!-- Write your operating system and version (e.g. "macOS Monterey 12.0"). -->
+**OS version:** <!-- Write your operating system and version. -->
 
 **Description:** <!-- A clear and concise description of what the bug is. -->
 
