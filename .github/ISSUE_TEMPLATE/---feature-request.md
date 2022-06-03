@@ -13,5 +13,5 @@ assignees: ''
 
 ## Checklist
 
-- [ ] I have searched through GitHub issues for similar issues
-- [ ] I have completely read through the README and documentation
+- [ ] I have searched through GitHub issues for similar issues.
+- [ ] I have completely read through the README and documentation.

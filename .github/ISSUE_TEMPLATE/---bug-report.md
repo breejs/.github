@@ -38,6 +38,6 @@ Example: <https://github.com/avajs/ava/blob/master/docs/01-writing-tests.md#fail
 
 ## Checklist
 
-- [ ] I have searched through GitHub issues for similar issues
-- [ ] I have completely read through the README and documentation
+- [ ] I have searched through GitHub issues for similar issues.
+- [ ] I have completely read through the README and documentation.
 - [ ] I have tested my code with the latest version of Node.js and this package and confirmed it is still not working.
