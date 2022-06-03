@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-#### Describe the bug
+## Describe the bug
 
 **Node.js version:** <!-- Write your Node.js version. -->
 
@@ -15,15 +15,15 @@ assignees: ''
 
 **Description:** <!-- A clear and concise description of what the bug is. -->
 
-#### Actual behavior
+## Actual behavior
 
 <!-- Write actual behavior here. -->
 
-#### Expected behavior
+## Expected behavior
 
 <!-- Write expected behavior here. -->
 
-#### Code to reproduce
+## Code to reproduce
 
 <!-- Share code to reproduce here inside a code formatted block, gist, or a repository we can clone to reproduce. -->
 
@@ -36,7 +36,7 @@ We encourage you to submit a pull request with a failing test:
 Example: <https://github.com/avajs/ava/blob/master/docs/01-writing-tests.md#failing-tests>
 -->
 
-#### Checklist
+## Checklist
 
 - [ ] I have searched through GitHub issues for similar issues
 - [ ] I have completely read through the README and documentation

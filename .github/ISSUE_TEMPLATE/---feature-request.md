@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-#### Describe the feature
+## Describe the feature
 
 <!-- Include a usage example of the feature. If the feature is currently possible with a workaround, include that too. -->
 
-#### Checklist
+## Checklist
 
 - [ ] I have searched through GitHub issues for similar issues
 - [ ] I have completely read through the README and documentation

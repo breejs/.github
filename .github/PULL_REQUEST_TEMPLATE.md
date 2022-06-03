@@ -1,4 +1,4 @@
-#### Checklist
+## Checklist
 
 - [ ] I have ensured my pull request is not behind the main or master branch of the original repository.
 - [ ] I have rebased all commits where necessary so that reviewing this pull request can be done without having to merge it first.
